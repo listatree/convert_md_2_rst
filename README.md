@@ -18,4 +18,7 @@ files. If different, just change it in the 'convert_md_2_rst.py' file.
 For converting docstrings Markdown to reStructuredText you may use @embolalia
 extension [Sphinx-Pandoc][].
 
+Thanks to @embolalia for the inspiration and source code reference for this
+extension.
+
 [Sphinx-Pandoc]: https://github.com/embolalia/Sphinx-Pandoc
