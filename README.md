@@ -14,3 +14,8 @@ sys.path.insert(0, os.path.abspath('.'))
 
 IMPORTANT: The code assumes that you use the folder 'source' for your Sphinx Doc
 files. If different, just change it in the 'convert_md_2_rst.py' file.
+
+For converting docstrings Markdown to reStructuredText you may use @embolalia
+extension [Sphinx-Pandoc][].
+
+[Sphinx-Pandoc]: https://github.com/embolalia/Sphinx-Pandoc
